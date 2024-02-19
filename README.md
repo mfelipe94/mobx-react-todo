@@ -1,4 +1,4 @@
-# react-mobx-todo-list
+# MOBX-REACT-TODO
 
 ## Getting Started
 
